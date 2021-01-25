@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appCalculadora</string>
+
+    <string name="sumar">+</string>
+    <string name="restar">-</string>
+    <string name="mult">x</string>
+    <string name="division">/</string>
+    <string name="resultado">0</string>
+    <string name="num1">0</string>
+    <string name="num2">0</string>
+</resources>
